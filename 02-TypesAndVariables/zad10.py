@@ -1,0 +1,5 @@
+x=input("podaj liczbe 1: ")
+y=input("podaj liczbe 2: ")
+x=int(x)
+y=int(y)
+print(f"suma liczb to: {x+y}")
