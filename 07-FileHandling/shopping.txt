@@ -1,0 +1,2 @@
+chleb& "c:/Program Files (x86)/python/python.exe" c:/Users/s-121-09/pp1/07-FileHandling/zad12.py
+mienso
