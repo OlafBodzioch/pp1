@@ -1,4 +1,4 @@
-file = open(".\\07-FileHandling\\randomizer.txt",'w',encoding='utf-8')
+file = open("randomizer.txt",'w',encoding='utf-8')
 
 
 for i in range(1,11):
